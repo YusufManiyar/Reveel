@@ -36,6 +36,7 @@ Cloudinary (for image hosting)
 dotenv for environment variables
 
 🛠️ Project Structure
+```
 reveel/
 │
 ├── client/                 # React frontend
@@ -53,6 +54,7 @@ reveel/
 │   │   ├── postRoutes.js
 │   │   └── generateRoutes.js
 │   └── index.js
+```
 📦 Getting Started
 1. Clone the repository
 bash
