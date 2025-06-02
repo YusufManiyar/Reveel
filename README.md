@@ -130,9 +130,4 @@ The app will run locally at `http://localhost:3000` and connect to the backend.
 Contributions, suggestions, and feedback are welcome!\
 Feel free to fork the repo, open issues, or submit pull requests.
 
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
