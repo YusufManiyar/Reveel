@@ -72,11 +72,11 @@ CLOUDINARY_API_SECRET=your_api_secret
 OPENAI_API_KEY=your_openai_key  # or GenAI/Replicate API key
 PORT=5000
 Start the server:
-
 bash
 npm start
 3. Setup the Client
 bash
+
 cd ../client
 npm install
 npm start
@@ -91,9 +91,6 @@ Saves a generated image with metadata to the database.
 
 GET /api/posts
 Fetches all publicly shared images.
-
-📸 Screenshots
-Add screenshots or demo GIFs here to visually explain your app.
 
 🤝 Contribution
 Contributions, suggestions, and feedback are welcome!
